@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.24)  28 FEB 2016 21:08
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.24)  29 FEB 2016 03:19
 entering extended mode
 **8085_Documentation.tex
-(C:\Users\Jubin\Documents\researchWork\8085\8085_latex\8085_Documentation.tex
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\8085_Documentation.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -941,20 +941,20 @@ File: english.lbx 2011/11/13 v1.7 biblatex localization
 \@quotelevel=\count348
 \@quotereset=\count349
 
-(C:\Users\Jubin\Documents\researchWork\8085\8085_latex\8085_Documentation.aux
-(C:\Users\Jubin\Documents\researchWork\8085\8085_latex\Title.aux)
-(C:\Users\Jubin\Documents\researchWork\8085\8085_latex\version.aux)
-(C:\Users\Jubin\Documents\researchWork\8085\8085_latex\author.aux)
-(C:\Users\Jubin\Documents\researchWork\8085\8085_latex\gnu.aux)
-(C:\Users\Jubin\Documents\researchWork\8085\8085_latex\ProductDescription.aux)
-(C:\Users\Jubin\Documents\researchWork\8085\8085_latex\features.aux)
-(C:\Users\Jubin\Documents\researchWork\8085\8085_latex\comparison.aux)
-(C:\Users\Jubin\Documents\researchWork\8085\8085_latex\assemblerDirective.aux)
-(C:\Users\Jubin\Documents\researchWork\8085\8085_latex\interrupt.aux)
-(C:\Users\Jubin\Documents\researchWork\8085\8085_latex\Disassembler.aux)
-(C:\Users\Jubin\Documents\researchWork\8085\8085_latex\tstate.aux)
-(C:\Users\Jubin\Documents\researchWork\8085\8085_latex\kit.aux)
-(C:\Users\Jubin\Documents\researchWork\8085\8085_latex\debug.aux))
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\8085_Documentation.aux
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\Title.aux)
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\version.aux)
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\author.aux)
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\gnu.aux)
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\ProductDescription.aux)
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\features.aux)
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\comparison.aux)
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\assemblerDirective.aux)
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\interrupt.aux)
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\Disassembler.aux)
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\tstate.aux)
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\kit.aux)
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\debug.aux))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 99.
 LaTeX Font Info:    ... okay on input line 99.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 99.
@@ -1042,16 +1042,15 @@ LaTeX Info: Redefining \ref on input line 99.
 LaTeX Info: Redefining \pageref on input line 99.
 LaTeX Info: Redefining \nameref on input line 99.
 
-(C:\Users\Jubin\Documents\researchWork\8085\8085_latex\8085_Documentation.out)
-(C:\Users\Jubin\Documents\researchWork\8085\8085_latex\8085_Documentation.out)
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\8085_Documentation.out)
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\8085_Documentation.out)
 \@outlinefile=\write6
 Package biblatex Info: Input encoding 'latin9' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'latin9'.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file '8085_Documentation.bbl' found.
-
-(C:\Users\Jubin\Documents\researchWork\8085\8085_latex\8085_Documentation.bbl
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\8085_Documentation.bbl
 
 Package biblatex Warning: BibTeX reported the following issues
 (biblatex)                with 'hex':
@@ -1061,7 +1060,7 @@ Package biblatex Warning: BibTeX reported the following issues
 )
 Package biblatex Info: Reference section=0 on input line 99.
 Package biblatex Info: Reference segment=0 on input line 99.
- (C:\Users\Jubin\Documents\researchWork\8085\8085_latex\Title.tex
+ (C:\git_download\8085_Codeplex\8085_Documentation_latex\Title.tex
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 10.
 LaTeX Font Info:    Try loading font information for T1+pcr on input line 11.
@@ -1101,10 +1100,10 @@ Package pdftex.def Info: "./top_page1".png used on input line 30.
 [1
 
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Jubin/Documents/
-researchWork/8085/8085_latex/construction.png> <C:/Users/Jubin/Documents/resear
-chWork/8085/8085_latex/top_page1.png>]
-(C:\Users\Jubin\Documents\researchWork\8085\8085_latex\version.tex
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/git_download/8085_Code
+plex/8085_Documentation_latex/construction.png> <C:/git_download/8085_Codeplex/
+8085_Documentation_latex/top_page1.png>]
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\version.tex
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 2.
 
@@ -1128,27 +1127,26 @@ Overfull \hbox (14.08875pt too wide) in paragraph at lines 4--11
 
 
 
- <C:/Users/Jubin/Documents/researchWork/8085/8085_latex/8085v1.png> <C:/Users/J
-ubin/Documents/researchWork/8085/8085_latex/8085v2.png>]) [3]
-(C:\Users\Jubin\Documents\researchWork\8085\8085_latex\author.tex) [1
+ <C:/git_download/8085_Codeplex/8085_Documentation_latex/8085v1.png> <C:/git_do
+wnload/8085_Codeplex/8085_Documentation_latex/8085v2.png>]) [3]
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\author.tex) [1
 
 
 
 
 ]
-(C:\Users\Jubin\Documents\researchWork\8085\8085_latex\8085_Documentation.toc)
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\8085_Documentation.toc)
 \tf@toc=\write7
-
 [2
 
 
-] (C:\Users\Jubin\Documents\researchWork\8085\8085_latex\gnu.tex [1
+] (C:\git_download\8085_Codeplex\8085_Documentation_latex\gnu.tex [1
 
 
 
-] [2]
-[3]) [4]
-(C:\Users\Jubin\Documents\researchWork\8085\8085_latex\ProductDescription.tex
+]
+[2] [3]) [4]
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\ProductDescription.tex
 Chapter 1.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20.74> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 1.
@@ -1181,22 +1179,22 @@ File: ./soft_arch.png Graphic file (type png)
 Package pdftex.def Info: ./soft_arch.png used on input line 38.
 (pdftex.def)             Requested size: 435.32422pt x 314.73235pt.
 
-[6 <C:/Users/Jubin/Documents/researchWork/8085/8085_latex/soft_arch.png>])
-[7] (C:\Users\Jubin\Documents\researchWork\8085\8085_latex\features.tex
+[6 <C:/git_download/8085_Codeplex/8085_Documentation_latex/soft_arch.png>])
+[7] (C:\git_download\8085_Codeplex\8085_Documentation_latex\features.tex
 Chapter 2.
 [8
 
 
 
 ] [9]) [10]
-(C:\Users\Jubin\Documents\researchWork\8085\8085_latex\comparison.tex
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\comparison.tex
 Chapter 3.
 ) [11
 
 
 
 ]
-(C:\Users\Jubin\Documents\researchWork\8085\8085_latex\assemblerDirective.tex
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\assemblerDirective.tex
 Chapter 4.
 
 Overfull \hbox (37.12994pt too wide) in paragraph at lines 11--29
@@ -1207,10 +1205,11 @@ Overfull \hbox (37.12994pt too wide) in paragraph at lines 11--29
 
 
 
-]) [13] (C:\Users\Jubin\Documents\researchWork\8085\8085_latex\interrupt.tex) (
-C:\Users\Jubin\Documents\researchWork\8085\8085_latex\Disassembler.tex
+]) [13]
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\interrupt.tex)
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\Disassembler.tex
 Chapter 5.
-(C:\Users\Jubin\Documents\researchWork\8085\8085_latex\disassemblerDemo.tex
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\disassemblerDemo.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--3
 
  []
@@ -1250,18 +1249,18 @@ File: sampleCode1Hex.png Graphic file (type png)
 Package pdftex.def Info: sampleCode1Hex.png used on input line 32.
 (pdftex.def)             Requested size: 241.84843pt x 34.75644pt.
 )
-(C:\Users\Jubin\Documents\researchWork\8085\8085_latex\IntelHex.tex [14
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\IntelHex.tex [14
 
 
 
 
 
 ]
-[15 <C:/Users/Jubin/Documents/researchWork/8085/8085_latex/sampleCode1.png> <C:
-/Users/Jubin/Documents/researchWork/8085/8085_latex/sampleCode1Rev.png> <C:/Use
-rs/Jubin/Documents/researchWork/8085/8085_latex/sampleCode1Asm.png> <C:/Users/J
-ubin/Documents/researchWork/8085/8085_latex/sampleCode1Mem.png> <C:/Users/Jubin
-/Documents/researchWork/8085/8085_latex/sampleCode1Hex.png>]
+[15 <C:/git_download/8085_Codeplex/8085_Documentation_latex/sampleCode1.png> <C
+:/git_download/8085_Codeplex/8085_Documentation_latex/sampleCode1Rev.png> <C:/g
+it_download/8085_Codeplex/8085_Documentation_latex/sampleCode1Asm.png> <C:/git_
+download/8085_Codeplex/8085_Documentation_latex/sampleCode1Mem.png> <C:/git_dow
+nload/8085_Codeplex/8085_Documentation_latex/sampleCode1Hex.png>]
 <"./disassemble".png, id=336, 354.57469pt x 184.43906pt>
 File: "./disassemble".png Graphic file (type png)
 
@@ -1269,12 +1268,12 @@ File: "./disassemble".png Graphic file (type png)
 Package pdftex.def Info: "./disassemble".png used on input line 6.
 (pdftex.def)             Requested size: 354.57382pt x 184.4386pt.
 )
-(C:\Users\Jubin\Documents\researchWork\8085\8085_latex\DisassemblerEditor.tex
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\DisassemblerEditor.tex
 Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
-[16 <C:/Users/Jubin/Documents/researchWork/8085/8085_latex/disassemble.png>]
+[16 <C:/git_download/8085_Codeplex/8085_Documentation_latex/disassemble.png>]
 Overfull \hbox (30.8538pt too wide) in paragraph at lines 7--13
 [][] 
  []
@@ -1284,7 +1283,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--15
 
  []
 
-)) [17] (C:\Users\Jubin\Documents\researchWork\8085\8085_latex\tstate.tex
+)) [17] (C:\git_download\8085_Codeplex\8085_Documentation_latex\tstate.tex
 Chapter 6.
 [18
 
@@ -1303,8 +1302,9 @@ File: ./TStateBefore.png Graphic file (type png)
 <use ./TStateBefore.png>
 Package pdftex.def Info: ./TStateBefore.png used on input line 33.
 (pdftex.def)             Requested size: 483.69687pt x 182.49632pt.
- [19 <C:/Users/Jubin/Documents/researchWork/8085/8085_latex/TStateEditorBefore.
-png> <C:/Users/Jubin/Documents/researchWork/8085/8085_latex/TStateBefore.png>]
+ [19 <C:/git_download/8085_Codeplex/8085_Documentation_latex/TStateEditorBefore
+.png> <C:/git_download/8085_Codeplex/8085_Documentation_latex/TStateBefore.png>
+]
 <./TStateEditorAfter.png, id=372, 723.45282pt x 532.23843pt>
 File: ./TStateEditorAfter.png Graphic file (type png)
 
@@ -1318,10 +1318,10 @@ File: ./TStateAfter.png Graphic file (type png)
 <use ./TStateAfter.png>
 Package pdftex.def Info: ./TStateAfter.png used on input line 49.
 (pdftex.def)             Requested size: 483.69687pt x 181.958pt.
- [20 <C:/Users/Jubin/Documents/researchWork/8085/8085_latex/TStateEditorAfter.p
-ng> <C:/Users/Jubin/Documents/researchWork/8085/8085_latex/TStateAfter.png>]) [
-21]
-(C:\Users\Jubin\Documents\researchWork\8085\8085_latex\kit.tex
+ [20 <C:/git_download/8085_Codeplex/8085_Documentation_latex/TStateEditorAfter.
+png> <C:/git_download/8085_Codeplex/8085_Documentation_latex/TStateAfter.png>])
+ [21]
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\kit.tex
 Chapter 7.
 <"./kit".png, id=385, 557.08125pt x 380.92313pt>
 File: "./kit".png Graphic file (type png)
@@ -1332,7 +1332,7 @@ Package pdftex.def Info: "./kit".png used on input line 8.
 
 
 
- <C:/Users/Jubin/Documents/researchWork/8085/8085_latex/kit.png>]
+ <C:/git_download/8085_Codeplex/8085_Documentation_latex/kit.png>]
 <sampleCode2Asm.png, id=395, 330.48468pt x 112.92188pt>
 File: sampleCode2Asm.png Graphic file (type png)
 
@@ -1344,9 +1344,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--39
 
  []
 
-[23 <C:/Users/Jubin/Documents/researchWork/8085/8085_latex/sampleCode2Asm.png>]
-[24] [25]) [26]
-(C:\Users\Jubin\Documents\researchWork\8085\8085_latex\debug.tex
+[23 <C:/git_download/8085_Codeplex/8085_Documentation_latex/sampleCode2Asm.png>
+] [24] [25]) [26]
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\debug.tex
 Chapter 8.
 <./Debug_1.png, id=431, 783.4068pt x 540.0978pt>
 File: ./Debug_1.png Graphic file (type png)
@@ -1375,10 +1375,10 @@ Package pdftex.def Info: ./Debug_4.png used on input line 26.
 
 
 
- <C:/Users/Jubin/Documents/researchWork/8085/8085_latex/Debug_1.png>] [28 <C:/U
-sers/Jubin/Documents/researchWork/8085/8085_latex/Debug_2.png> <C:/Users/Jubin/
-Documents/researchWork/8085/8085_latex/Debug_3.png>] [29 <C:/Users/Jubin/Docume
-nts/researchWork/8085/8085_latex/Debug_4.png>]
+ <C:/git_download/8085_Codeplex/8085_Documentation_latex/Debug_1.png>] [28 <C:/
+git_download/8085_Codeplex/8085_Documentation_latex/Debug_2.png> <C:/git_downlo
+ad/8085_Codeplex/8085_Documentation_latex/Debug_3.png>] [29 <C:/git_download/80
+85_Codeplex/8085_Documentation_latex/Debug_4.png>]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 130.
  [30
 
@@ -1386,20 +1386,20 @@ Package atveryend Info: Empty hook `BeforeClearDocument' on input line 130.
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 130.
 
-(C:\Users\Jubin\Documents\researchWork\8085\8085_latex\8085_Documentation.aux
-(C:\Users\Jubin\Documents\researchWork\8085\8085_latex\Title.aux)
-(C:\Users\Jubin\Documents\researchWork\8085\8085_latex\version.aux)
-(C:\Users\Jubin\Documents\researchWork\8085\8085_latex\author.aux)
-(C:\Users\Jubin\Documents\researchWork\8085\8085_latex\gnu.aux)
-(C:\Users\Jubin\Documents\researchWork\8085\8085_latex\ProductDescription.aux)
-(C:\Users\Jubin\Documents\researchWork\8085\8085_latex\features.aux)
-(C:\Users\Jubin\Documents\researchWork\8085\8085_latex\comparison.aux)
-(C:\Users\Jubin\Documents\researchWork\8085\8085_latex\assemblerDirective.aux)
-(C:\Users\Jubin\Documents\researchWork\8085\8085_latex\interrupt.aux)
-(C:\Users\Jubin\Documents\researchWork\8085\8085_latex\Disassembler.aux)
-(C:\Users\Jubin\Documents\researchWork\8085\8085_latex\tstate.aux)
-(C:\Users\Jubin\Documents\researchWork\8085\8085_latex\kit.aux)
-(C:\Users\Jubin\Documents\researchWork\8085\8085_latex\debug.aux))
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\8085_Documentation.aux
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\Title.aux)
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\version.aux)
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\author.aux)
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\gnu.aux)
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\ProductDescription.aux)
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\features.aux)
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\comparison.aux)
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\assemblerDirective.aux)
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\interrupt.aux)
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\Disassembler.aux)
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\tstate.aux)
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\kit.aux)
+(C:\git_download\8085_Codeplex\8085_Documentation_latex\debug.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 130.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 130.
 Package rerunfilecheck Info: File `8085_Documentation.out' has not changed.
@@ -1408,7 +1408,7 @@ Package logreq Info: Writing requests to '8085_Documentation.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  19945 strings out of 493921
- 321427 string characters out of 3144876
+ 321526 string characters out of 3144876
  730648 words of memory out of 3000000
  22604 multiletter control sequences out of 15000+200000
  57529 words of font info for 66 fonts, out of 3000000 for 9000
@@ -1426,7 +1426,7 @@ nts/type1/urw/times/utmbi8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/
 urw/times/utmr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/u
 tmr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
 
-Output written on 8085_Documentation.pdf (35 pages, 4252506 bytes).
+Output written on 8085_Documentation.pdf (35 pages, 4260684 bytes).
 PDF statistics:
  531 PDF objects out of 1000 (max. 8388607)
  142 named destinations out of 1000 (max. 500000)
