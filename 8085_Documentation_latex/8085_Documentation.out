@@ -31,3 +31,8 @@
 \BOOKMARK [2][-]{subsection.7.2.3}{How to examine memory and register contents}{section.7.2}% 31
 \BOOKMARK [1][-]{section.7.3}{Shortcut Keys for Trainer Kit Button}{chapter.7}% 32
 \BOOKMARK [0][-]{chapter.8}{Debugging Mode}{}% 33
+\BOOKMARK [0][-]{chapter.9}{Tools}{}% 34
+\BOOKMARK [1][-]{section.9.1}{Insert Delay Subroutine}{chapter.9}% 35
+\BOOKMARK [2][-]{subsection.9.1.1}{Working Example of a delay sub-routine}{section.9.1}% 36
+\BOOKMARK [1][-]{section.9.2}{Interrupt Service Subroutine}{chapter.9}% 37
+\BOOKMARK [1][-]{section.9.3}{Number Conversion Tool}{chapter.9}% 38
